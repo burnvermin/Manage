@@ -545,8 +545,8 @@ body #bg-img2C #bg-img2 {
   .footer2 {
     -ms-grid-columns: 5fr 5fr;
         grid-template-columns: 5fr 5fr;
-    -ms-grid-rows: .3fr 4.8fr .8fr .8fr .5fr;
-        grid-template-rows: .3fr 4.8fr .8fr .8fr .5fr;
+    -ms-grid-rows: .3fr 3fr .3fr .8fr .5fr;
+        grid-template-rows: .3fr 3fr .3fr .8fr .5fr;
     padding: 2em 3em;
     text-align: inherit;
   }

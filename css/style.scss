@@ -452,7 +452,7 @@ body {
 
     @include mobile {
         grid-template-columns: 5fr 5fr;
-        grid-template-rows: .3fr 4.8fr .8fr .8fr .5fr;
+        grid-template-rows: .3fr 3fr .3fr .8fr .5fr;
         padding: 2em 3em;
         text-align: inherit;
     }
