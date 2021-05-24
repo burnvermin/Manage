@@ -125,10 +125,13 @@ body #bg-img2C #bg-img2 {
 @media (max-width: 700px) {
   .head #hamburger {
     display: block;
-    height: 1.17em;
+    height: 2em;
+    margin-top: -5%;
     width: 2em;
     margin-left: 50%;
     background-repeat: no-repeat;
+    background-color: #f25f3a;
+    border-radius: 180px;
   }
 }
 
@@ -327,12 +330,12 @@ body #bg-img2C #bg-img2 {
 
 @media (max-width: 700px) {
   .section2 .right-side section .text .strong {
-    width: 80%;
-    margin-left: 7%;
+    width: 78%;
+    margin-left: 9%;
     margin-top: -1.1%;
     z-index: -1;
     position: absolute;
-    background-color: orange;
+    background-color: #ffefeb;
     padding: .5em 0em 1.95em 2em;
     overflow-x: hidden;
   }
